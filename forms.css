@@ -1,5 +1,30 @@
-.redesigned-theme-2018 .wufoo label.desc, .redesigned-theme-2018 .wufoo legend.desc, .redesigned-theme-2018 .likert caption,
-.wufoo label.desc, .wufoo legend.desc, .likert caption {
-  color: orange !important;
-  font-size: 1rem !important;
+@font-face {
+  font-family: Zt Glora Pro Variable;
+  src: url("https://cdn.prod.website-files.com/697ff11257aa5dcce0d8a622/69801eac5fcc93485b150805_ZT-Glora-Pro-Variable.ttf") format("truetype");
+  font-weight: 100 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+#header.info {
+  display: none;
+}
+
+body {
+font-size: 1rem;
+}
+
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span,
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file {
+    border-radius: 10px;
+    margin: 6px;
+    padding: 8px;
+    background: none;
+    border: 1px solid #33484b !important;
+    color: #1b2c2e !important;
+}
+
+.wufoo textarea.textarea {
+  /* width: 80%; */
+  display:  block;
 }
