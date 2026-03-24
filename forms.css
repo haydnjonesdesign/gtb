@@ -45,6 +45,7 @@ font-family: Zt Glora Pro Variable, Arial, sans-serif;
     padding: .75rem 1.63rem;
     transition: all .2s ease-in;
     display: flex;
+    cursor: pointer;
 }
 .safari input.btTxt {
 font-size: 100%;
