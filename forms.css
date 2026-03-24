@@ -12,6 +12,7 @@
 
 body {
 font-size: 1rem;
+font-family: Zt Glora Pro Variable, Arial, sans-serif;
 }
 
 .wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span,
