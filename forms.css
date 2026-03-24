@@ -11,7 +11,7 @@
 }
 
 body, .wufoo {
-font-size: 1rem;
+font-size: 1.13rem;
 font-family: Zt Glora Pro Variable, Arial, sans-serif;
 }
 
@@ -37,4 +37,13 @@ padding: 16px !important;
 .wufoo textarea.textarea {
 }
 
-
+.wufoo input.btTxt  {
+    background-color: #1b2c2e;
+    color: white;;
+    border-radius: 6.25rem;
+    justify-content: center;
+    align-items: center;
+    padding: .75rem 1.63rem;
+    transition: all .2s ease-in;
+    display: flex;
+}
