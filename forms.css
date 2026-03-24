@@ -10,7 +10,7 @@
   display: none;
 }
 
-body {
+body, .wufoo {
 font-size: 1rem;
 font-family: Zt Glora Pro Variable, Arial, sans-serif;
 }
