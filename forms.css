@@ -1,4 +1,5 @@
-.redesigned-theme-2018 .wufoo label.desc, .redesigned-theme-2018 .wufoo legend.desc, .redesigned-theme-2018 .likert caption {
+.redesigned-theme-2018 .wufoo label.desc, .redesigned-theme-2018 .wufoo legend.desc, .redesigned-theme-2018 .likert caption,
+.wufoo label.desc, .wufoo legend.desc, .likert caption {
   color: orange !important;
   font-size: 3rem !important;
 }
