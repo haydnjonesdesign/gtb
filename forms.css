@@ -18,7 +18,6 @@ font-family: Zt Glora Pro Variable, Arial, sans-serif;
 .wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span,
 .wufoo input.text, .wufoo textarea.textarea, .wufoo input.file {
     border-radius: 10px;
-    margin: 6px;
     padding: 8px;
     background: none;
     border: 1px solid #33484b !important;
@@ -26,6 +25,6 @@ font-family: Zt Glora Pro Variable, Arial, sans-serif;
 }
 
 .wufoo textarea.textarea {
-  /* width: 80%; */
-  display:  block;
 }
+
+
