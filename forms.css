@@ -38,6 +38,7 @@ padding: 16px !important;
 }
 
 .wufoo input.btTxt  {
+font-family: Zt Glora Pro Variable, Arial, sans-serif;
     background-color: #1b2c2e;
     color: white;;
     border-radius: 6.25rem;
@@ -46,4 +47,7 @@ padding: 16px !important;
     padding: .75rem 1.63rem;
     transition: all .2s ease-in;
     display: flex;
+}
+.safari input.btTxt {
+font-size: 100%;
 }
