@@ -65,3 +65,11 @@ div#footer:before {
     left: 0;
     right: 0;
 }
+
+.wufoo label.desc, .wufoo legend.desc, .likert caption {
+font-weight: normal;
+}
+
+.wufoo input.btTxt {
+  border: 0;
+}
