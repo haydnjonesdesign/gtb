@@ -77,3 +77,6 @@ font-weight: normal;
 .wufoo ul > li {
   padding-left: 0 !important;
 }
+.wufoo li.focused {
+  background-color: transparent !important;
+}
