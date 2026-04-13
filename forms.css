@@ -71,9 +71,9 @@ font-weight: normal;
 }
 
 .wufoo input.btTxt {
-  border: 0;
+  border: 0 !important;
 }
 
-ul > li:first-child {
-  padding-left: 0;
+.wufoo ul > li {
+  padding-left: 0 !important;
 }
